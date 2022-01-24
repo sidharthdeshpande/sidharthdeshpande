@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidharthdeshpande
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Power Platform
-- 💞️ I’m looking to collaborate on Power Apps
+- 🌱 I’m currently learning Azure DevOps and PowerShell
+- 💞️ I’m looking to collaborate on Azure DevOps and PowerShell
 - 📫 How to reach me at sidharthdeshpande@gmail.com
 
 <!---
